@@ -1,4 +1,6 @@
 # Predicting Amazing Race Outcomes
+![amazing_race_logo_world](https://github.com/user-attachments/assets/08b3a3be-1e85-4117-b6e7-64d087cf554c)
+
 
 I love the show, [_The Amazing Race_](https://www.cbs.com/shows/amazing_race/). Having an adventurous spirit, loving to travel, and try new things, this show hits all the marks for me. And so I’ve often wondered how I would perform if I went on the show, and who should I enlist to be my partner to make the strongest team. This inspired me to actually gather some data to see if I could understand what makes a strong team and build a tool that would do just that – predict a team’s chance of winning the race.
 
